@@ -1,2 +1,2 @@
 # Themes
-Themes para Linux Mint
+Themes para Linux Mint.
